@@ -6,6 +6,7 @@ A digital twin that tries to do everything ends up doing nothing well. The scope
 That still meant solving two problems that pull in opposite directions. Factual questions benefit from a stable, pre-computed knowledge base. Scheduling questions require live data that changes daily. The core engineering challenge was building a single retrieval pipeline that handles both without each data source degrading the other.
 The second constraint that shaped every decision was hallucination. A digital twin that invents facts about you is worse than one that admits it doesn't know - especially in a professional context. This ruled out approaches that prioritized fluency over grounding.
 Data sources were chosen to match the scope: a structured export of my LinkedIn profile for professional background, and Google Calendar via OAuth for live scheduling. The LinkedIn data is static - scraped and formatted locally into embeddable documents. Calendar data is live.
+The interface is intentionally minimal - a Slack-style chat UI designed to mimic workplace communication platforms. The goal was to make interacting with the twin feel familiar rather than technical. 
 
 ---
 
