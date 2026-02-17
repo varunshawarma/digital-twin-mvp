@@ -77,7 +77,14 @@ digital-twin-mvp/
 - A Google Cloud project with Calendar API enabled
 - OAuth 2.0 credentials (`credentials.json`)
 
-### Install
+### Clone the repo
+
+```bash
+git clone https://github.com/varunshawarma/digital-twin-mvp.git
+cd digital-twin-mvp
+```
+
+### Install dependencies
 
 ```bash
 # Backend
