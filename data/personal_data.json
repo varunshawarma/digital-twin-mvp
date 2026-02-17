@@ -1,0 +1,142 @@
+[
+  {
+    "id": "profile_summary",
+    "type": "profile",
+    "title": "Professional Summary",
+    "date": "2024-02-09",
+    "content": "Varun Sharma. Computer Engineering student at UIUC (graduating May 2026) building applied AI/ML systems that turn messy data into actionable decisions. Experience shipping ML, retrieval, and LLM pipelines in both research and production environments. Interested in startup-style teams and AI/ML Engineer roles focused on end-to-end impact. Previously AI/GenAI Engineer at Vertiv, Machine Learning Engineer at Sensiboo, and Research Assistant at University of Utah Health. Based in Champaign, Illinois."
+  },
+  {
+    "id": "vertiv_experience",
+    "type": "experience",
+    "title": "AI/Generative AI Engineer at Vertiv",
+    "date": "May 2025 - Aug 2025",
+    "content": "AI/Generative AI Engineer Intern at Vertiv in Westerville, Ohio. Worked on applied AI systems used internally across Vertiv, focusing on LLM-powered workflows, automation, and data-driven decision support. Engineered and deployed a reinforcement learning driven LLM prompt optimization system, reducing average response latency while sustaining semantic accuracy across workflows. Designed and implemented backend automation pipelines connecting ServiceNow, Snowflake, OKTA, and internal admin systems to reduce manual operational effort and improve consistency in access management workflows. Built a sustainability-focused AI pipeline to support material and part classification from sparse BOM data. This included a web-augmented retrieval system using Google and Brave Search APIs to gather external datasheets and vendor documentation, embedding and semantically ranking results to surface high-confidence evidence for human expert verification. Collaborated closely with domain experts and internal stakeholders to balance automation with correctness, emphasizing human-in-the-loop design for high-stakes decisions. Technologies: Snowflake, Retrieval-Augmented Generation (RAG), LLMs, reinforcement learning."
+  },
+  {
+    "id": "sensiboo_experience",
+    "type": "experience",
+    "title": "Machine Learning Engineer at Sensiboo",
+    "date": "Jan 2024 - Aug 2025",
+    "content": "Machine Learning Engineer (Part-time) at Sensiboo startup in Champaign, Illinois. As one of the initial members of Sensiboo, a startup focused on revolutionizing early childhood development, I contributed to the development of a biometric device and application as part of the SensiSupport product. In this fast-paced startup environment, my responsibilities extended beyond just technical tasks. I was actively involved in various facets of the project, from concept to deployment, ensuring that solutions were not only technologically robust but also user-friendly and impactful. My work contributed directly to a product that aims to enhance parent-child interactions and support early developmental interventions. Technologies: Computer Vision, Deep Learning, Machine Learning."
+  },
+  {
+    "id": "utah_research",
+    "type": "experience",
+    "title": "Research Assistant at University of Utah Health",
+    "date": "May 2024 - Aug 2024",
+    "content": "Research Assistant Intern at University of Utah Health in Salt Lake City as part of the Summer Program for Undergraduate Research (SPUR). Worked in the NeuroRobotics Lab headed by Professor Jacob A. George, an interdisciplinary lab joint between the College of Engineering and School of Medicine. Research focused on enhancing upper-limb function for stroke patients with chronic hemiparesis through an advanced EMG-controlled exoskeleton. Key contributions: Spearheaded the research project and coordinated efforts among team members. Developed and evaluated classification models (KNN and CNN) to facilitate intuitive control of the exoskeleton for five distinct movements: hand grasp/open, wrist pronate/supinate, and rest. Conducted comprehensive offline analyses using pre-recorded datasets, demonstrating that the KNN model achieved higher accuracies (95.90 ± 3.17%) and faster prediction times compared to the CNN model. Authored an article for the Undergraduate Research Journal RANGE and presented findings at the Undergraduate Research Symposium. Technologies: Machine Learning Algorithms, MATLAB, Python, TensorFlow, Signal Processing."
+  },
+  {
+    "id": "robotics_lead",
+    "type": "experience",
+    "title": "Software Engineering Project Lead at Illini VEX Robotics",
+    "date": "Oct 2022 - Dec 2023",
+    "content": "Software Engineering Project Lead at Illini VEX Robotics at UIUC. Led the Brain Computer Interface Car Project, managing a multidisciplinary team of 15 members in a Scrum Agile framework. Engineered an Arduino-enabled car that could be maneuvered remotely through brain signals. Used the Neurosity Crown headset to record brain signals and train machine learning models. Developed and fine-tuned Machine Learning models to classify EEG signals in real-time to facilitate intuitive car maneuvering. Technologies: TensorFlow, Data Analysis, Python, Machine Learning, Arduino, Signal Processing, Agile methodologies."
+  },
+  {
+    "id": "mhymatch_internship",
+    "type": "experience",
+    "title": "Software Engineer Intern at MhyMatch",
+    "date": "May 2023 - Aug 2023",
+    "content": "Software Engineer Intern at MhyMatch (remote). Contributed to the development of an innovative AI-powered resume tool. Performed comprehensive market research and competitive analysis of competing resume tools. Collaborated with the Founder and CEO to identify and prioritize essential product features. Developed conversational UI components and implemented machine learning algorithms and natural language processing techniques. Proficiently integrated APIs such as OpenAI, GCP, Whatsapp, and Twilio. Led chatbot development using Language Learning Models (LLMs), optimized prompt engineering, and facilitated multimodal input processing. Managed complex project aspects, documented the development process, and prepared comprehensive project plans with Gantt charts. Technologies: Natural Language Processing (NLP), Large Language Models (LLM), OpenAI API, React, Node.js, prompt engineering."
+  },
+  {
+    "id": "education_uiuc_1",
+    "type": "education",
+    "title": "Bachelor of Science in Computer Engineering",
+    "date": "Aug 2022 - May 2026",
+    "content": "University of Illinois Urbana-Champaign. Bachelor of Science in Computer Engineering. Expected graduation: May 2026. Dual degree program also pursuing Innovation, Leadership and Engineering Entrepreneurship."
+  },
+  {
+    "id": "education_uiuc_2",
+    "type": "education",
+    "title": "Innovation, Leadership and Engineering Entrepreneurship",
+    "date": "Aug 2022 - May 2026",
+    "content": "University of Illinois Urbana-Champaign. Bachelor of Science (Dual Degree) in Innovation, Leadership and Engineering Entrepreneurship. Expected graduation: May 2026. Focus on technology commercialization, customer discovery and validation, early-stage product strategy, and product-market fit analysis."
+  },
+  {
+    "id": "tech_commercialization_cert",
+    "type": "certification",
+    "title": "Technology Commercialization Certificate",
+    "date": "Dec 2025",
+    "content": "Technology Commercialization Certificate awarded by the Grainger College of Engineering and the Technology Entrepreneur Center in December 2025. Skills include Design Thinking, Customer Discovery and Validation, Product-Market Fit Analysis, and Early-Stage Product Strategy."
+  },
+  {
+    "id": "technical_skills",
+    "type": "skills",
+    "title": "Technical Skills",
+    "date": "2024-02-09",
+    "content": "Programming Languages: Python, JavaScript/TypeScript, MATLAB, C/C++. Machine Learning & AI: TensorFlow, PyTorch, Large Language Models (LLMs), Natural Language Processing (NLP), Computer Vision, Deep Learning, Reinforcement Learning, RAG systems. Data & Backend: Snowflake, Vector Databases, Signal Processing, Data Analysis. Web Development: React, Node.js, API Integration (OpenAI, GCP, Twilio). Tools: Git, Arduino, Agile/Scrum methodologies. Specialized: Prompt Engineering, Embedding Systems, Human-in-the-Loop Design, EMG Signal Processing."
+  },
+  {
+    "id": "work_style",
+    "type": "preferences",
+    "title": "Work Style & Preferences",
+    "date": "2024-02-09",
+    "content": "I thrive in startup-style environments where I can be involved from concept to deployment. I prefer working on end-to-end AI/ML systems with tangible impact. I value human-in-the-loop design for high-stakes decisions and believe in balancing automation with correctness. I excel in fast-paced, multidisciplinary team settings and enjoy collaborating with domain experts. I'm comfortable leading teams (managed up to 15 members) in Agile frameworks. I prioritize making solutions both technologically robust and user-friendly."
+  },
+  {
+    "id": "career_goals",
+    "type": "goals",
+    "title": "Career Goals & Interests",
+    "date": "2024-02-09",
+    "content": "Open to roles as Data Analyst, Applied Scientist, Machine Learning Engineer, and AI Engineer. Particularly interested in startup-style teams and AI/ML Engineer roles focused on end-to-end impact. Short-term: Continue building applied AI/ML systems that turn messy data into actionable decisions. Focus on shipping production-grade ML, retrieval, and LLM pipelines. Long-term: Become a leader in applied AI/ML engineering, working on products that help people be more productive and creative. Interested in the intersection of AI and real-world problem solving, particularly in healthcare, accessibility, and automation."
+  },
+  {
+    "id": "project_poshan",
+    "type": "project",
+    "title": "Project Poshan - Social Impact Initiative",
+    "date": "Oct 2020 - Dec 2020",
+    "content": "Co-founded Project Poshan where we raised $1000+ through crowdfunding. Onboarded 12+ volunteers to help raise money. Delegated tasks relating to website development and social media campaigning. Contacted suppliers, bought rations, and distributed food and essential items to 50+ underprivileged families during the winter festive season. This project demonstrated leadership, project management, and using technology for social good."
+  },
+  {
+    "id": "shelf_awareness",
+    "type": "project",
+    "title": "Shelf Awareness Drive - Education Access Initiative",
+    "date": "Apr 2019 - Dec 2020",
+    "content": "Launched Shelf Awareness Drive to provide underprivileged students access to books and resources. Gathered volunteers and collected books in different schools and residential complexes, then donated them to public schools, libraries, and NGOs. As the project evolved during the pandemic, worked in the IT department to update the website, organized meetings, and hosted workshops and online events to foster a culture of reading among youth."
+  },
+  {
+    "id": "communication_style",
+    "type": "conversation",
+    "title": "Communication & Problem-Solving Style",
+    "date": "2024-02-09",
+    "content": "My approach to technical problem-solving is systematic and impact-focused. I start by understanding the core problem and constraints, then identify the simplest solution that meets requirements. I prioritize clarity and maintainability over complexity. When communicating, I'm direct and detail-oriented, often using concrete examples to explain technical concepts. I value documentation and clear project plans (experience with Gantt charts, comprehensive documentation). I believe in iterative development and continuous testing. My work on projects like the RL-driven LLM optimization and RAG systems shows I focus on measurable outcomes (reduced latency, sustained accuracy, high-confidence evidence)."
+  },
+  {
+    "id": "decision_framework",
+    "type": "conversation",
+    "title": "Technical Decision-Making Framework",
+    "date": "2024-02-09",
+    "content": "When making technical decisions, I balance multiple factors: 1) User impact and correctness (especially for high-stakes applications), 2) Technical feasibility and performance metrics, 3) Maintainability and scalability, 4) Team expertise and resources. Example: In the Vertiv sustainability AI pipeline, I chose web-augmented retrieval with semantic ranking over a pure ML approach because it provided high-confidence evidence that domain experts could verify, balancing automation with human oversight. For the EMG exoskeleton project, I selected KNN over CNN based on higher accuracy (95.90%) and faster prediction times, prioritizing real-time performance for medical applications."
+  },
+  {
+    "id": "interests_learning",
+    "type": "interests",
+    "title": "Current Interests & Learning",
+    "date": "2024-02-09",
+    "content": "Currently excited about: Applied AI/ML systems, particularly RAG architectures, LLM optimization, and real-world deployment challenges. Following developments in: reinforcement learning for LLM fine-tuning, vector databases and semantic search, human-in-the-loop AI systems, accessibility technology (from my EMG exoskeleton research). Interested in: the intersection of AI and healthcare, startup product development, technology commercialization. Always learning about system design, distributed systems, and building production-grade ML pipelines."
+  },
+  {
+    "id": "achievements_research",
+    "type": "achievement",
+    "title": "EMG Exoskeleton Research Publication & Presentation",
+    "date": "Aug 2024",
+    "content": "Led research on EMG-controlled exoskeleton for stroke patients at University of Utah NeuroRobotics Lab. Developed classification models achieving 95.90% accuracy. Authored article for Undergraduate Research Journal RANGE and presented findings at the University of Utah Undergraduate Research Symposium 2024. This work demonstrated ability to lead research projects, work with medical applications, and communicate findings to technical and non-technical audiences."
+  },
+  {
+    "id": "achievements_academic",
+    "type": "achievement",
+    "title": "Academic Excellence - IGCSE School Topper",
+    "date": "May 2020",
+    "content": "School topper of the IGCSE board at Scottish High International School. Secured Distinction as part of the Cambridge ICE award with 6 A*s and 2 As. Also achieved SAT score of 1570/1600. This demonstrates strong analytical and problem-solving abilities, attention to detail, and ability to excel in challenging academic environments."
+  },
+  {
+    "id": "leadership_experience",
+    "type": "experience",
+    "title": "Leadership & Team Management Experience",
+    "date": "2022-2025",
+    "content": "Extensive leadership experience across multiple projects: Led 15-member team for Brain-Computer Interface Car project in Scrum Agile framework. Managed 8-member team for Urinalysis medical device project as Project Manager. Coordinated research team efforts at University of Utah. Onboarded and managed 12+ volunteers for Project Poshan fundraising initiative. This experience shows ability to lead multidisciplinary teams, manage complex projects, delegate effectively, and deliver results in both technical and non-technical contexts."
+  }
+]
